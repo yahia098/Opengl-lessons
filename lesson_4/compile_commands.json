@@ -1,0 +1,36 @@
+[
+  {
+    "file": "src/main.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-O0",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "build/main.o"
+    ],
+    "directory": "/home/yahia/Codes/Opengl-lessons/lesson_4",
+    "output": "build/main.o"
+  },
+  {
+    "file": "src/glad.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-O0",
+      "-c",
+      "src/glad.c",
+      "-o",
+      "build/glad.o"
+    ],
+    "directory": "/home/yahia/Codes/Opengl-lessons/lesson_4",
+    "output": "build/glad.o"
+  }
+]
